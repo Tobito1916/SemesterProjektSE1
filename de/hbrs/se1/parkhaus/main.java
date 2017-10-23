@@ -11,4 +11,9 @@ public class main {
 	public void test() {
 		System.out.println("bla fuu");
 	}
+	
+	@Test
+	public void test() {
+		System.out.println("Test");
+	}
 }
